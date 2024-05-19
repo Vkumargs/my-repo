@@ -1,0 +1,3 @@
+#learningmode
+
+Understand somewhat.
